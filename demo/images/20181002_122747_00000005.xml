@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_for_docker</folder>
+	<filename>20181002_122747_00000005.jpg</filename>
+	<path>D:\IOTIOTAI\Data Extraction\images_for_docker\20181002_122747_00000005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>OFF_Fan</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>73</ymin>
+			<xmax>110</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,19 @@
+item {
+    id: 1
+    name: 'OFF_Fan'
+}
+
+item {
+    id: 2
+    name: 'OFF_Lights'
+}
+
+item {
+    id: 3
+    name: 'ON_Fan'
+}
+
+item {
+    id: 4
+    name: 'ON_Lights'
+}
